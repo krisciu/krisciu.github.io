@@ -1,4 +1,4 @@
-baseURL = "krisciu.github.io/"
+baseURL = "krisciu.github.io"
 languageCode = "en-us"
 theme = "terminal"
 title = "let's test this bad boy out"
