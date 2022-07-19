@@ -78,7 +78,7 @@ paginate = 5
     missingBackButtonLabel = "Back to home page"
 
     [languages.en.params.logo]
-      logoText = "Terminal"
+      logoText = "Krisciu"
       logoHomeLink = "/"
 
     [languages.en.menu]
@@ -90,3 +90,7 @@ paginate = 5
         identifier = "showcase"
         name = "Showcase"
         url = "/showcase"
+      [[languages.en.menu.main]]
+        identifier = "fun"
+        name = "Fun"
+        url = "/fun"
