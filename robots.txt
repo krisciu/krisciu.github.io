@@ -1,2 +1,2 @@
 User-Agent: *
-Sitemap: https://infohazard.online/sitemap.xml
+Sitemap: https://krisciu.github.io/sitemap.xml
