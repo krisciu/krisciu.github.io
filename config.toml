@@ -6,8 +6,8 @@ baseURL = "https://krisciu.github.io"
 theme = 'hugo-bearblog'
 
 # Basic metadata configuration for your blog.
-title = "Infohazard"
-author = "John Doe"
+title = "Krisciu"
+author = "Joe Krisciunas"
 copyright = "Copyright © 2020, Jane Doe."
 languageCode = "en-US"
 
