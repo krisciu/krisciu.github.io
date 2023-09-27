@@ -71,4 +71,6 @@ Initially I wanted to get out an album by EOY, while this didn't end up happenin
 
 Therefore, I need to play more music, I should attempt to budget time in my day for that. Especially during meetings
 
-sorry for the sad rambleposting, actually quite a good day overall.
+Update: just played guitar a little to sneak that in for today, I need to go to bed now though
+
+Also I should make this blog less diary style and more focused on actual content, no one wants to read this lmao
