@@ -74,3 +74,19 @@ Therefore, I need to play more music, I should attempt to budget time in my day 
 Update: just played guitar a little to sneak that in for today, I need to go to bed now though
 
 Also I should make this blog less diary style and more focused on actual content, no one wants to read this lmao
+
+
+# September 27
+
+short one today because I was supposed to be in bed 22 minutes ago. I have been grinding hard, foudn out my entire use of flask-sessions in my [UNNAMED] app was wrong and my client server model is fundamentally completely wrong. Oh well, I'll just make it better. Overall kinda a frustrating day in terms of raw progress but we balling on it fam. Overall good day tho.
+
+I need to go to sleep
+
+had dinner with coworkers, got invited to things on weekends, it's looking up[I got invited to things before, but not having things planned on weekends has been a real soul-crusher for me lately]
+
+we grinding, we making progress, we gonna kill it.
+ 
+ while this year has had its ups and downs, I have accomplished so much, most of which is unfortunately too soon to happening for me to discuss on this [potentially] public blog
+
+ ok I gotta sleep, see you in the morning, WAGMI
+ 
