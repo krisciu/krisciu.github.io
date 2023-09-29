@@ -89,4 +89,41 @@ we grinding, we making progress, we gonna kill it.
  while this year has had its ups and downs, I have accomplished so much, most of which is unfortunately too soon to happening for me to discuss on this [potentially] public blog
 
  ok I gotta sleep, see you in the morning, WAGMI
- 
+
+ # September 28
+
+One reason why [COMPANY I WORK FOR ] does so well is that they've more effectively eliminated siloed knowledge than any other company I'm aware of. This is through a doc culture and 'fungible engineer' mindset. Not sure if this is comforting, but it is interesting.
+
+also lmao I made GPT4 speak in jon mess lyrics
+
+```
+Hey, I'm the grind, a caffeinated snail,
+AWS by day, but at night I set sail.
+Functional code, like a digital gnome,
+I'm a wizard in a cubicle, a king on a throne.
+
+Work, play, a binary stew,
+Like a platypus juggling with a kangaroo.
+Videos, essays, they're like socks on a bird,
+In this kaleidoscopic, nonsensical world!
+
+Yo, Side Hustle, I'm a nameless cloud,
+Mostly functional, screaming silent but loud.
+Went out, conquered Mars, ate a victory pie,
+In this game of life, I'm a unicorn that can fly.
+
+Work, play, a binary stew,
+Like a platypus juggling with a kangaroo.
+Videos, essays, they're like socks on a bird,
+In this kaleidoscopic, nonsensical world!
+
+Videos, essays, they're like pickles in space,
+But personal projects, they're a giraffe in a race.
+Social media's a void, like a donut with teeth,
+But projects are the jazz for my existential beef.
+
+In the end, it's all a cosmic mime,
+Juggling fire while reciting a rhyme.
+Work, play, projects, they're all a surreal meme,
+In this universe, we're all just a dream.
+```
