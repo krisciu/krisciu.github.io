@@ -127,3 +127,31 @@ Juggling fire while reciting a rhyme.
 Work, play, projects, they're all a surreal meme,
 In this universe, we're all just a dream.
 ```
+
+
+## October 1st
+
+Need to get more serious and focused about accomplishing my goals, which is why I'm doing some planning here: Let's plan October out with specific goals!
+
+### Physical Health goals
+My health has kind of suffered as of late due to mainly living off office food, a couple things could help out with this:
+1. Daily excercise, this could be walking back from work, running, etc
+2. I'm doing sober October, as I'm realizing drinking really makes me feel crummy the next day, which hurts my weekends, so staying sober
+3. Less than 3 hours a day on the phone[I have a tracker for this]
+4. Better sleep, more than 7 hours a day ideally
+
+## Side project goals
+1. Get a working version of my app finished and deployed
+2. Make 1 Youtube video
+3. Make 1 Blog post
+4. Get significant work done on [Other project]
+
+## Mental health goals
+1. Do not waste days[especially on weekends, like you have today lol] A wasted day can be considered a day where you did not leave your apartment, or ended it feeling bad, You know what these are.
+2. Drastically reduce negative mental thoughts. Yes, you are mid, but you can improve
+
+## Social goals
+1. Make at least one new friend or hang out with someone you haven't before
+
+This is kind of low effort, but I think this will help me align myself, I have a ton I want to do, somethings have been left vague deliberately.
+   
