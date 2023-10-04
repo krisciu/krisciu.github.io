@@ -155,3 +155,13 @@ My health has kind of suffered as of late due to mainly living off office food, 
 
 This is kind of low effort, but I think this will help me align myself, I have a ton I want to do, somethings have been left vague deliberately.
    
+## Tues Oct 3rd
+
+been sick in bed last few days, this sucks!! lol
+
+Starting a new github repo to consolidate all AI progress, I need to be proficient in AI/ML skills by one year or less.
+
+I feel like I'm floundering in my goals and am mediocre, even though I'm working on this while I'm literally sick lol. Overall it is easy to feel a little hopeless I suppose, there is just so much cool stuff I want to do and I feel like my life is wasting away little by little.
+
+Oh well, I think it's just being stuck in bed that's making me feel awful, hopefully I will feel better tomorrow! Let's go!
+
