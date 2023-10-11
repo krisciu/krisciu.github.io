@@ -167,3 +167,16 @@ I feel like I'm floundering in my goals and am mediocre, even though I'm working
 
 Oh well, I think it's just being stuck in bed that's making me feel awful, hopefully I will feel better tomorrow! Let's go!
 
+
+## Tues Oct 10
+
+It's been a week, I've coded most of a basic neural net from scratch and have gotten a lot done on [MY SIDE PROJECT]. I also published another article, so I suppose I have gotten things done in many ways.
+
+I need to work on my focus and get things done, I feel like I'm still flailing around for stability in many ways. And not getting things nearly as done as I want....
+
+Hopefully I am not just wasting my time, although only time will tell...
+
+maybe a cool goal would be to get an article/vid done about my neural-net from scratch implementation....
+
+don't have too much to talk about for now, mostly making this post to keep up the habit of pushing to git.
+
