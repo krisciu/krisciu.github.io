@@ -1,0 +1,45 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f2e9e4;
+    text-align: center;
+    padding: 40px;
+}
+
+.greeting-card {
+    background-color: #c9ada7;
+    border-radius: 15px;
+    padding: 20px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    margin: auto;
+    width: 50%;
+}
+
+h1 {
+    color: #9a8c98;
+}
+
+p {
+    color: #4a4e69;
+}
+
+.snowflake {
+    color: #fff;
+    font-size: 1em;
+    position: absolute;
+    top: -10%;
+    left: 50%;
+    transform: translateX(-50%);
+    opacity: 0.7;
+    animation-name: fall;
+    animation-duration: 10s;
+    animation-timing-function: linear;
+    animation-iteration-count: infinite;
+}
+
+@keyframes fall {
+    to {
+        transform: translateY(100vh);
+    }
+}
+
+
