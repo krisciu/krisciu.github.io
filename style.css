@@ -42,4 +42,20 @@ p {
     }
 }
 
+.light {
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    background-color: red; /* Or any festive color */
+    position: absolute;
+    animation: blink 1s infinite;
+}
+
+@keyframes blink {
+    50% {
+        opacity: 0;
+    }
+}
+
+
 
