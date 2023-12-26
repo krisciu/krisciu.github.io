@@ -1,12 +1,12 @@
 body {
     font-family: 'Arial', sans-serif;
-    background-color: #f2e9e4;
+    background-color: #f0f0f0; /* Light background for contrast */
+    color: #363636; /* Darker text for readability */
     text-align: center;
-    padding: 40px;
 }
 
 .greeting-card {
-    background-color: #c9ada7;
+    background-color: #fff; /* Pure white for the card */
     border-radius: 15px;
     padding: 20px;
     box-shadow: 0 4px 8px rgba(0,0,0,0.1);
@@ -15,11 +15,11 @@ body {
 }
 
 h1 {
-    color: #9a8c98;
+    color: #d32f2f; /* Rich red for the header */
 }
 
 p {
-    color: #4a4e69;
+    color: #388e3c; /* Deep green for the text */
 }
 
 .snowflake {
@@ -46,7 +46,6 @@ p {
     width: 10px;
     height: 10px;
     border-radius: 50%;
-    background-color: red; /* Or any festive color */
     position: absolute;
     animation: blink 1s infinite;
 }
@@ -56,6 +55,21 @@ p {
         opacity: 0;
     }
 }
+
+.animated-character {
+    width: 100px; /* Adjust size as needed */
+    animation: float 5s ease-in-out infinite;
+}
+
+@keyframes float {
+    0%, 100% { transform: translateY(0); }
+    50% { transform: translateY(-20px); }
+}
+
+/* Specific styles for each character if needed */
+#santa { /* Santa specific styles */ }
+#jesus { /* Jesus specific styles */ }
+
 
 
 

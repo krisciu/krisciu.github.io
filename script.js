@@ -19,8 +19,12 @@ function createSnowflake() {
 setInterval(createSnowflake, 100);
 
 function createLight() {
+    const lightColors = ['#ff0000', '#00ff00', '#0000ff', '#ffff00', '#ff00ff']; // Array of light colors
+    const lightColor = lightColors[Math.floor(Math.random() * lightColors.length)]; // Randomly pick one
+
     const light = document.createElement('div');
     light.classList.add('light');
+    light.style.backgroundColor = lightColor; // Use the randomly picked color
     light.style.left = Math.random() * 100 + 'vw';
     light.style.top = Math.random() * 100 + 'vh';
     document.body.appendChild(light);
