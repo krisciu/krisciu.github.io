@@ -35,3 +35,19 @@ function createLight() {
 }
 
 setInterval(createLight, 150);
+
+function assignRandomPath(element) {
+    const paths = ['flyPath1', 'flyPath2', 'flyPath3']; // List your paths here
+    const randomPath = paths[Math.floor(Math.random() * paths.length)];
+    element.style.animationName = randomPath;
+}
+
+// For Santa and Jesus images
+const santa = document.getElementById('santa');
+const jesus = document.getElementById('jesus');
+
+setInterval(() => {
+    assignRandomPath(santa);
+    assignRandomPath(jesus);
+}, 10000); // Adjust time as needed
+

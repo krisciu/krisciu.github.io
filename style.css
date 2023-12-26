@@ -58,13 +58,19 @@ p {
 
 .animated-character {
     width: 100px; /* Adjust size as needed */
-    animation: float 5s ease-in-out infinite;
+    position: absolute;
+    animation-duration: 10s;
+    animation-timing-function: linear;
+    animation-iteration-count: infinite;
 }
 
-@keyframes float {
-    0%, 100% { transform: translateY(0); }
-    50% { transform: translateY(-20px); }
+@keyframes flyPath1 {
+    0% { transform: translate(-100px, -100px); opacity: 0; }
+    10% { opacity: 1; }
+    90% { opacity: 1; }
+    100% { transform: translate(110vw, 110vh); opacity: 0; }
 }
+
 
 /* Specific styles for each character if needed */
 #santa { /* Santa specific styles */ }
