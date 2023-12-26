@@ -14,6 +14,13 @@ body {
     width: 50%;
 }
 
+.centered-image {
+    display: block; /* Makes the image a block-level element */
+    margin: 20px auto; /* Centers the image and adds some space above and below */
+    max-width: 100%; /* Ensures the image is responsive and fits the screen */
+    height: auto; /* Keeps the image aspect ratio */
+}
+
 h1 {
     color: #d32f2f; /* Rich red for the header */
 }
