@@ -40,5 +40,4 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./susimage/out
-          destination_dir: susimage  # This puts everything in a /susimage subdirectory
           force_orphan: true
