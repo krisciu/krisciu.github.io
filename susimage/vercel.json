@@ -1,0 +1,15 @@
+{
+    "version": 2,
+    "builds": [
+      {
+        "src": "package.json",
+        "use": "@vercel/next"
+      }
+    ],
+    "git": {
+      "deploymentEnabled": {
+        "gh-pages": false,
+        "main": true
+      }
+    }
+  }
