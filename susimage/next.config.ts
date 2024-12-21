@@ -1,11 +1,12 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  output: 'export',  // Enable static exports
+  output: 'export',
   images: {
-    unoptimized: true, // Required for static export
+    unoptimized: true,
   },
-  basePath: '/susimage', // Replace with your actual repository name
-  assetPrefix: '/susimage', // Replace with your actual repository name
+  // Since this will be hosted at krisciu.github.io/susimage
+  basePath: '/susimage',
+  assetPrefix: '/susimage/',
 }
 
 module.exports = nextConfig
