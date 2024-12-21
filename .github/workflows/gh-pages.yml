@@ -19,23 +19,31 @@ jobs:
         with:
           node-version: '18'
 
+      # Navigate to the project directory before running npm commands
+      - name: Navigate to project directory
+        run: cd susimage
+
+      # We need to run all subsequent commands in the susimage directory
       - name: Install Dependencies
+        working-directory: ./susimage
         run: npm install
 
       - name: Create env file
+        working-directory: ./susimage
         run: |
           echo "NEXT_PUBLIC_UNSPLASH_ACCESS_KEY=${{ secrets.NEXT_PUBLIC_UNSPLASH_ACCESS_KEY }}" >> .env.local
           echo "NEXT_PUBLIC_REPLICATE_API_TOKEN=${{ secrets.NEXT_PUBLIC_REPLICATE_API_TOKEN }}" >> .env.local
 
       - name: Build Project
+        working-directory: ./susimage
         run: |
           npm run build
-          touch out/.nojekyll  # Prevents GitHub Pages from trying to process files with Jekyll
+          touch out/.nojekyll
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         if: github.ref == 'refs/heads/main'
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./out  # Next.js builds to the 'out' directory
-          force_orphan: true  # Creates a new commit without history
+          publish_dir: ./susimage/out
+          force_orphan: true
