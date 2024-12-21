@@ -1,0 +1,10 @@
+{
+    "git": {
+      "deploymentEnabled": {
+        "gh-pages": false,
+        "main": true
+      }
+    },
+    "buildCommand": "npm run build",
+    "outputDirectory": "susimage/out"
+  }
